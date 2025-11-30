@@ -3,7 +3,7 @@
 LiveSuit is a proprietary tool by Allwinner used to flash images to Allwinner-SoC based devices.
 This repository is a fork of the [https://github.com/linux-sunxi/sunxi-livesuite](https://github.com/linux-sunxi/sunxi-livesuite) repo and is used to install [Valetudo](https://github.com/hypfer/Valetudo) on supported vacuum robots.
 
-This readme assumes that you have just installed a fresh copy of [Debian Bookworm](https://www.debian.org/releases/bookworm/) with some kind of GUI (e.g. KDE).
+This readme assumes that you have just installed a fresh copy of [Debian Trixie](https://www.debian.org/releases/trixie/) with some kind of GUI (e.g. KDE).
 Commands may vary based on your Linux-Distribution. I **strongly** recommend a fresh install for this to not taint your main one.
 
 Ubuntu is known to cause problems. Just use Debian, really. It's the superior OS anyway.
